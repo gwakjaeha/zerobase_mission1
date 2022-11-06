@@ -74,7 +74,7 @@ th, td{
 	
 		<table>
 			<thead>
-				<tr>
+				<tr bgcolor="#ffff00">
 					<th>거리(km)</th>
 					<th>관리번호</th>
 					<th>자치구</th>

@@ -59,7 +59,7 @@ th, td{
 	%>
 		<table id='historyTable'>
 			<thead>
-				<tr>
+				<tr bgcolor="#ffff00">
 					<th>ID</th>
 					<th>X좌표</th>
 					<th>Y좌표</th>
